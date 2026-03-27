@@ -62,7 +62,7 @@
   "autoCreateDB": false,
   "MongoConfig": {
     "status": true,
-    "uri": "MONGO_URI",
+    "uri": "mongodb+srv://nangsodamn_db_user:adrianng02@cluster0.xh8a9sx.mongodb.net/CassidyBot?appName=Cluster0",
     "note": "DO NOT MODIFY THIS IF YOU DO NOT KNOW WHAT YOU WERE DOING. They serve as .env keys for mongo uri."
   },
   "credentials": {
